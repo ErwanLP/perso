@@ -54,3 +54,8 @@ jspm_packages
 *.iml
 out
 gen
+
+# Custom
+/public/
+/temp/
+/typings/
